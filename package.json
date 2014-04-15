@@ -1,47 +1,12 @@
 {
-  "name": "luaparse",
+  "name": "oxyc-luaparse",
   "description": "A Lua parser in JavaScript",
   "version": "0.1.6",
-  "homepage": "http://oxyc.github.io/luaparse/",
-  "bugs": "https://github.com/oxyc/luaparse/issues",
-  "author": {
-    "name": "Oskar Schöldström",
-    "email": "public@oxy.fi"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/oxyc/luaparse.git"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/oxyc/luaparse/blob/master/LICENSE"
-    }
-  ],
-  "main": "luaparse.js",
-  "bin": "bin/luaparse",
-  "man": "docs/luaparse.1",
-  "scripts": {
-    "test": "make qa"
-  },
   "keywords": [
     "lua",
     "parser",
     "parsing"
   ],
-  "devDependencies": {
-    "benchmark": "~1.0.0",
-    "complexity-report": "~0.10.5",
-    "docco": "~0.6.3",
-    "grunt": "~0.4.4",
-    "grunt-contrib-concat": "~0.4.0",
-    "grunt-contrib-jshint": "~0.10.0",
-    "grunt-contrib-uglify": "~0.4.0",
-    "grunt-lint-bash": "~0.1.0",
-    "grunt-lint-inline": "~0.4.0",
-    "istanbul": "~0.2.7",
-    "marked": "~0.3.2",
-    "spec": "git://github.com/kitcambridge/spec.git#gh-pages",
-    "testem": "~0.6.9"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }

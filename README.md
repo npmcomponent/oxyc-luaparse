@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [oxyc/luaparse](http://github.com/oxyc/luaparse). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/oxyc-luaparse`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # luaparse [![Build Status](https://travis-ci.org/oxyc/luaparse.png)](https://travis-ci.org/oxyc/luaparse)
 
 A Lua parser written in JavaScript, for my bachelor's thesis at Arcada.
